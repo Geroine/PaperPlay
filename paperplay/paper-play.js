@@ -1,0 +1,4 @@
+;
+if (!paperplay){
+  window.paperplay = {};
+}
